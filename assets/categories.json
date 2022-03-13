@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "98HYXBZllUaKPykQvPkb",
+      "name": "Mobile Phones",
+      "subCategories": [
+        {
+          "id": "eNmlRvauJB9Y5eJlCCX4",
+          "name": "Apple",
+          "subCategories": [
+            {
+              "id": "uWTxHOBT1lfES9c1JvGA",
+              "name": "iphone 8",
+              "subCategories": [
+                {
+                  "id": "FVil5Lh7Gn3IWlhVYdGk",
+                  "name": "128 GB",
+                  "subCategories": []
+                },
+                {
+                  "id": "DqIfn7lO7lcDVVKmF2j9",
+                  "name": "256GB",
+                  "subCategories": []
+                }
+              ]
+            },
+            {
+              "id": "ZXxwpE3URjqrSeXfvHXg",
+              "name": "iphone X",
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "id": "NfR1NYJbOrt4qqvAhMoq",
+          "name": "Nokia",
+          "subCategories": []
+        }
+      ]
+    },
+    {
+      "id": "6vtqkZqinkvVWCIP5UiC",
+      "name": "Watches",
+      "subCategories": []
+    },
+    {
+      "id": "wqYXawdG7ISVH6zO6U6g",
+      "name": "Computers",
+      "subCategories": []
+    }
+  ]
+}
